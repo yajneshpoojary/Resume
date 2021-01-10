@@ -1,0 +1,55 @@
+.d1{
+	background-color:red;
+	
+	height: 179px;
+}
+
+#d2{
+	border: solid black;
+	background-color:#C0C0C0;
+	height: 360px;
+	width: 205px;
+	
+}
+
+#d3{
+	border: solid black;
+	background-color:#C0C0C0 ;
+	height: 320px;
+	margin-left: 205px;
+	margin-top: -366px;
+
+	padding: 20px;
+	}
+
+#d4{
+
+	border: solid red;
+	background-color: #C0C0C0;
+	height:40px;
+	}
+
+h3{
+	text-decoration: none;
+	}
+
+a:hover{
+	background-color: #FFFF00;
+	color:red;
+
+}
+
+
+
+
+a{
+	color: black;
+	text-decoration: none;/*to remove underline which is present in <a> tag*/
+	/*font-family: cursive;*/
+	font-size: 20px;
+}
+
+
+#print:hover{
+	color: red;
+}

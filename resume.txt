@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewpoint" content="width=device-width, intial-scale=1.0">
+	<title>MY RESUME</title>
+	<link rel="stylesheet" type="text/css" href="resume2.css">
+	<script>
+		function HomeFun() {
+			window.location = "resume2.html";
+		}
+		function educationFun() {
+			window.location = "education.html";
+		}
+		function skillFun() {
+			window.location = "skill.html";
+		}
+		function projectFun() {
+			window.location = "project.html";
+		}
+		function personalFun() {
+			window.location = "personal Details.html";
+		}
+
+	</script>
+
+</head>
+<body>
+	<div class = container >
+	  <div id="hd" >
+	  	<div id="head1" >
+	  		<p>Contact:6360833343</p>
+	  		<p>email:bsbhavani002@gmail.com</p>
+	  	</div>
+	  	<div id= "head2" >
+	  	…
+[1:27 PM, 11/21/2020] Bhavani Kodnest: #head1{
+	font-weight: bolder;
+	color:blue;
+}
+#head2{
+	margin-left:60%;
+	margin-top: -85px;
+}
+
+#head2>img{
+    margin: 2px;
+    padding: 2px;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+#bd1{
+	border:black;
+	float left;
+	width:30%;
+	height:400px;
+	background-color: bisque;
+
+}
+#bd1>button{
+	display:block;
+	height:30px;
+	width:109px;
+	margin-left:125px;
+	margin-top:50px;
+	font-weight:bolder;
+	border:5px solid;
+}
+button:hover{
+	background-color: blue;
+	color:white;
+}
+[1:27 PM, 11/21/2020] Bhavani Kodnest: <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name ="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="resume2.css">
+	<link rel="stylesheet" type="text/css" href="education.css">
+	
+	<script>
+		function HomeFun(){
+			window.location = "resume2.html";
+		}
+		function educationFun(){
+			window.loction ="education.html";
+         }
+         function skillFun(){
+         	window.location ="skill.html";
+         }
+         function projectFun(){
+         	window.location ="project.html";
+         }
+         function personalFun(){
+         	window.location ="personal Details.html";
+         }
+	</script>
+</head>
+<body>
+	<div class = container>
+		<div id ="hd">
+
+			<div id …
+[1:27 PM, 11/21/2020] Bhavani Kodnest: table{ 
+	border: 2px solid black;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-collapse: collapse;
+	text-align: center;
+	height: 35px;
+
+	font-size: 20px;
+
+}
+tr{
+	color: blue;
+}
+td{
+	color: black;
+}
+table,th,td{
+	border: 1px solid black;
+	
+}
+[1:27 PM, 11/21/2020] Bhavani Kodnest: <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name ="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="resume2.css">
+	
+	<script>
+		function HomeFun(){
+			window.location = "resume2.html";
+		}
+		function educationFun(){
+			window.loction ="education.html";
+         }
+         function skillFun(){
+         	window.location ="skill.html";
+         }
+         function projectFun(){
+         	window.location ="project.html";
+         }
+         function personalFun(){
+         	window.location ="personal Details.html";
+         }
+	</script>
+</head>
+<body>
+	<div class = container>
+		<div id ="hd">
+
+			<div id ="head1">
+				<p>Contact:6360833343</p>
+				<p>email:bsbhavani…
+[1:27 PM, 11/21/2020] Bhavani Kodnest: <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name ="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="resume2.css">
+	<link rel="stylesheet" type="text/css" href="education.css">
+	
+	<script>
+		function HomeFun(){
+			window.location = "index.html";
+		}
+		function educationFun(){
+			window.loction ="edu.html";
+         }
+         function skillFun(){
+         	window.location ="skill.html";
+         }
+         function projectFun(){
+         	window.location ="project.html";
+         }
+         function personalFun(){
+         	window.location ="personal.html";
+         }
+	</script>
+</head>
+<body>
+	<div class = container>
+		<div id ="hd">
+
+			<div id ="head1">
+				<p…
+[1:27 PM, 11/21/2020] Bhavani Kodnest: <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name ="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="resume2.css">
+
+	
+	<script>
+		function HomeFun(){
+			window.location = "resume2.html";
+		}
+		function educationFun(){
+			window.loction ="education.html";
+         }
+         function skillFun(){
+         	window.location ="skill.html";
+         }
+         function projectFun(){
+         	window.location ="project.html";
+         }
+         function personalFun(){
+         	window.location ="personal Details.html";
+         }
+	</script>
+</head>
+<body>
+	<div class = container>
+		<div id ="hd">
+
+			<div id ="head1">
+				<p>Contact:6360833343</p>
+				<p>email:bsbhavan…
+[1:27 PM, 11/21/2020] Bhavani Kodnest: <!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title> Login Form </title>
+
+    <script src="/JS/FormValidation.js"></script>
+
+</head>
+<body>
+    
+    <div class="mark" >
+        <h1 class="log" text-align="center"> Login </h1>
+    </div>
+
+    <div class="content"> 
+        <form onsubmit="return validateForm()" action="res.html">
+
+            <label for="firstname">Firstname</label>
+            <input type="text" class="in" id="fn" placeholder="Your First Name"  required>
+            <span class="o" id="fname">*</span>
+            <h5 id="fnamee"></h5>
+
+            <label for="lastName">Lastname</label>
+            <input type="text" class="in" id="ln" placeholder="Your Last Name" required>
+            <span class="o" id="lname">*</span>
+            <h5 id="l…
+[1:27 PM, 11/21/2020] Bhavani Kodnest: function validateForm(){
+    var resfn = document.getElementById("fn").value
+    var resln = document.getElementById("ln").value
+    var resnum = document.getElementById("ph").value
+    
+    
+    var valfname = /^[a-zA-Z]{3,15}$/.test(resfn)
+    var vallname = /^[a-zA-Z]{3,15}$/.test(resln)
+    var valnum = /^[6-9]{1}[0-9]{9}$/.test(resnum)
+    // var resdob = document.getElementById("dob").value
+    
+    if(valfname==false || vallname==false){
+        document.getElementById("fname").innerHTML = ""
+        document.getElementById("fnamee").innerHTML = "Characters must be Greater than 2 and less than 15"
+        document.getElementById("fn").style.border = "1px solid red"
+        return false
+    }
+    else{
+        document.getElementById("fnamee").innerHTML = ""
+        document.getElementById("fn").style.border = "1px solid black"
+    }
+    
+    if(vallname==false){
+        document.getElementById("lname").innerHTML = ""
+        document.getElementById("lnamee").innerHTML = "Characters must be Greater than 2 and less than 15"
+        document.getElementById("ln").style.border = "1px solid red"
+        return false
+    }
+    else{
+        document.getElementById("lnamee").innerHTML = ""
+        document.getElementById("ln").style.border = "1px solid black"
+    }
+    
+    if(valnum==false){
+        document.getElementById("fnamee").innerHTML = ""
+        document.getElementById("Phone").innerHTML = "Invalid Phone Number"
+        document.getElementById("ph").style.border = "1px solid red"
+        return false
+    }
+    else{
+        document.getElementById("Phone").innerHTML = ""
+        document.getElementById("ph").style.border = "1px solid black"
+    }
+
+    return true
+}
